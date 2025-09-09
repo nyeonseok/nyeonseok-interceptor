@@ -1,6 +1,6 @@
 {
   "name": "nyeonseok-interceptor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/api.umd.js",
   "module": "dist/api.es.js",
   "types": "dist/api.d.ts",
